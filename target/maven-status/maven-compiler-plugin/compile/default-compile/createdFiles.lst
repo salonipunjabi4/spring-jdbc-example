@@ -1,0 +1,5 @@
+com\demo\test\Main.class
+com\demo\model\Person.class
+com\demo\spring\dao\PersonDAO.class
+com\demo\spring\config\AppConfig.class
+com\demo\spring\dao\PersonDAOImpl.class
